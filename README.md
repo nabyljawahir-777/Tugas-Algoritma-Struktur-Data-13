@@ -2,9 +2,12 @@
 
 ## ðŸ‘¤ Profil
 - **Nama** : Nabyl Jawahir
-             Zidane Putra Sriyono
-             Imam Umbara
-             Dicky Abdullah Upara
+
+  Zidane Putra Sriyono
+
+  Imam Umbara
+
+  Dicky Abdullah Upara
 - **Kelas** : TI25I
 - **Mata Kuliah** : Algoritma dan Struktur Data
 
