@@ -1,4 +1,4 @@
-public class jump {
+public class Advanced_jumpSearch {
     public static int jumpSearch(int[] arr, int target){
         int n = arr.length;
         int step = (int) Math.sqrt(n);
@@ -34,3 +34,4 @@ public class jump {
     }
 }
  
+
